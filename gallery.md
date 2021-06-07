@@ -6,7 +6,7 @@
 <div align="center">
     <img src="images/ASHIK.jpeg" width=128> <br/>
     <b>HAJA ASHIK S</b> <br/>
-    <p>I'm Full stack app developer persuing my degree from Sri Sairam College of Engineering Bangalore. I lik eto work more with flutter.</p>
+    <p>I'm Full stack app developer persuing my degree from Sri Sairam College of Engineering Bangalore. I like to work more with flutter and in free time i like to indulge myself with little designing as well.</p>
 </div>
 
 
@@ -40,7 +40,7 @@
     <h3 align="center">COMPILE-COMPANION</h3>
     <p align="center">
         <br/>
-        <b>COMPILE_COMPANION</b>- Compile companion is a single stop platform for all the programming labs of each semester in VTU that consists of  basic to advanced level programs uploaded by trained faculties of the institute.<br/> It allows the faculties to upload, update , delete and execute their codes in the compiler section. Its uncomplicated design makes it easy to use. <br/><br/><br/><br/><br/><br/>
+        <b>COMPILE_COMPANION</b>- Compile companion is a single stop platform for all the programming labs of each semester in VTU that consists of  basic to advanced level programs uploaded by trained faculties of the institute. It allows the faculties to upload, update , delete and execute their codes in the compiler section. Its uncomplicated design makes it easy to use. <br/><br/><br/><br/><br/><br/>
         <img src="images/companion.png" width=450>
         <img src="videos/compile companion ......mov" controls="controls" autoPlay={false} width=450>
     </p>
@@ -54,7 +54,7 @@
         <br/>
         <b>G-QUIZ MOBILE</b>- G-Quiz mobile application is one stop solution for students as well as new developers for indepth learning in most organised manner which includes youtube tutorial course links and free material with quiz section for each and every topic. <br/><br/><br/>
         <img src="images/gquizmobile.jpeg" width=450>
-  
+        <img src="videos/G-Quiz-Mobile.mov" controls="controls" autoPlay={false} width=450>
     </p>
 </div>
 
